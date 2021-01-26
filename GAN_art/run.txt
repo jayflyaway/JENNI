@@ -1,0 +1,1 @@
+python dcgan.py --dataset=art --dataroot='../data' --netG='netG_epoch_24.pth' --netD='netD_epoch_24.pth' --cuda
