@@ -3,7 +3,7 @@
 data set used as input for the DCGAN: 
 https://www.kaggle.com/greg115/abstract-art
 
-JENNI (Joint Enhancement using Neural Network Imagination) as basically a process using the selected output of a DCGAN 
+JENNI (Joint Enhancement using Neural Network Imagination) is basically a process using the selected output of a DCGAN 
 trained on abstract art to generate real world painting. 
 
 ![](PaintProduction/generator/in_out.svg)
